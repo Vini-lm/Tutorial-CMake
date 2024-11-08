@@ -1,0 +1,3 @@
+/mnt/c/Users/vinic/OneDrive/Documentos/projetos2/DCC012/build/CMakeFiles/hello.dir
+/mnt/c/Users/vinic/OneDrive/Documentos/projetos2/DCC012/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vinic/OneDrive/Documentos/projetos2/DCC012/build/CMakeFiles/rebuild_cache.dir
